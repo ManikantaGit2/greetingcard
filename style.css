@@ -1,0 +1,40 @@
+.greeting-card-container {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/695/827/original/spring-square-greeting-card-design-with-flowers-vector.jpg);
+    background-size: cover;
+    width: 113vh;
+    height: 500px;
+    padding: 20px;
+  
+}
+.greet {
+    font-weight: bold;
+    color: aqua;
+    margin-left: 450px;
+   margin-top: 0px;
+   
+}
+.heading {
+    font-size: 30px;
+    font-weight: 300;
+    color:black;
+    margin-left: 20px;
+    margin-top: 90px;
+    text-align: center;
+    color: rgb(26, 42, 103);
+    font-style: inherit;
+}
+.new-year {
+    font-size: 35px;
+}
+.greet-text-container {
+    text-align: center;
+    height: 80vh;
+}
+.greet-text {
+    font-size: 24px;
+    margin-left: 157px;
+    margin-top: 50px;
+    color: rgb(222, 124, 12);
+    font-style: italic;
+
+}
