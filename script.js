@@ -8,4 +8,4 @@ let greetToEl = document.getElementById("greetTo");
 
 greetTextEl.textContent = parsedValue.greetText;
 greetFromEl.textContent = "From:" + parsedValue.from;
-greetToEl.textContent = "Top:" + parsedValue.to;
+greetToEl.textContent = "To:" + parsedValue.to;
